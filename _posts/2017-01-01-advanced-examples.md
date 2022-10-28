@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "進階粒子"
 mathjax: true
 layout: post
 categories: media
@@ -14,7 +14,7 @@ You can enable MathJax by setting `mathjax: true` on a page or globally in the `
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+$$ f(w) = \dfrac{1}{2\pi i}\int_{|z-w|=r}\dfrac{f(z)}{z-w}\,dz $$
 
 The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
 
