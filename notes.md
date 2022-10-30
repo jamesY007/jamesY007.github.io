@@ -13,7 +13,7 @@ layout: page
 
 
 [notesLA1]:/Linear_algebra.pdf
-[convpowerseries]:/Convergent power series and Taylor expansions.pdf
+[convpowerseries]:/Convergent_power_series_and_Taylor_expansions.pdf
 
 [notesHA1]:/Harmonic_analysis.pdf
 
