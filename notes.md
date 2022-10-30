@@ -4,11 +4,13 @@ permalink: "/notes/"
 layout: page
 ---
 
-## 調和分析 / Harmonic Analysis
+## [線性代數 / Linear Algebra][notesLA1]
+
+## [調和分析 / Harmonic Analysis][notesHA1]
 
 ## [代數幾何 / Algebraic Geometry][notesAG1]
 
 
-
-[notesHA1]:/
+[notesLA1]:/Linear_algebra.pdf
+[notesHA1]:/Harmonic_analysis.pdf
 [notesAG1]:/Algebraic_geometry.pdf
