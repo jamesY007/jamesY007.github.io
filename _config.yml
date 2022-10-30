@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:b07201020@g.ntu.edu.tw"}
+  - {title: Note, icon: "fa-solid fa-notes" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
