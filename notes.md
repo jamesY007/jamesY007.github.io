@@ -6,8 +6,8 @@ layout: page
 
 ## 調和分析 / Harmonic Analysis
 
-## 代數幾何 / Algebraic Geometry
- + [notesAG1]
+## [代數幾何 / Algebraic Geometry][notesAG1]
+
 
 
 [notesHA1]:/
