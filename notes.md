@@ -17,16 +17,16 @@ layout: page
 ## [代數幾何 / Algebraic Geometry][notesAG1]
 - [交換代數][noteCommAlg1]
 
-[notesLA1]:/Linear_algebra.pdf
-[convpowerseries]:/Convergent_power_series_and_Taylor_expansions.pdf
+[notesLA1]:/notefiles/Linear_algebra.pdf
+[convpowerseries]:/notefiles/Convergent_power_series_and_Taylor_expansions.pdf
 
-[noteAlg1]:/Algebra_Note.pdf
-[noteCommAlg1]:/Commutative_Algebras.pdf
+[noteAlg1]:/notefiles/Algebra_Note.pdf
+[noteCommAlg1]:/notefiles/Commutative_Algebras.pdf
 
-[noteAlgNT1]:/AlgNT.pdf
-[noteESisomclassical]:/Eichler_Shimura_isomorphism.pdf
+[noteAlgNT1]:/notefiles/AlgNT.pdf
+[noteESisomclassical]:/notefiles/Eichler_Shimura_isomorphism.pdf
 
-[notesHA1]:/Harmonic_analysis.pdf
+[notesHA1]:/notefiles/Harmonic_analysis.pdf
 
-[notesAG1]:/Algebraic_geometry.pdf
+[notesAG1]:/notefiles/Algebraic_geometry.pdf
 
