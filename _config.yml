@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:b07201020@g.ntu.edu.tw"}
+  - {title: Lii4, url: "https://lii4.github.io/L/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
