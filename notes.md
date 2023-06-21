@@ -10,7 +10,7 @@ layout: page
 ## [代數 / Algebra][noteAlg1]
 
 ## [代數數論 / Algebraic Number Theory][noteAlgNT1]
-- [Eichler-Shimura isomorphism for classical modular curves][noteESisomclassical]
+- [模曲線的Eichler-志村同構][noteESisomclassical]
 
 ## [調和分析 / Harmonic Analysis][notesHA1]
 
