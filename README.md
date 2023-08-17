@@ -1,7 +1,9 @@
 ---
-title: "About"
+title: "About / Links"
 permalink: "/about/"
 layout: page
 ---
 
-## Hi
+## My duke website : tap here[tomydukewebsite]
+
+[tomydukewebsite]:https://sites.duke.edu/hyyao/
