@@ -31,7 +31,7 @@ layout: page
 
 [notesHA1]:/notefiles/Harmonic_analysis.pdf
 
-[noteGL(2)mlclass]:\notefile/GL(2)mlclass.pdf
+[noteGL(2)mlclass]:/notefiles/GL(2)mlclass.pdf
 
 [notesAG1]:/notefiles/Algebraic_geometry.pdf
 
