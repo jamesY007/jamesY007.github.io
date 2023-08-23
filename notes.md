@@ -15,7 +15,7 @@ layout: page
 ## [調和分析 / Harmonic Analysis][notesHA1]
 
 ## [自守表現 / Automorphic representation]
--[GL(2)][noteGL(2)mlclass]
+- [GL(2)][noteGL(2)mlclass]
 
 ## [代數幾何 / Algebraic Geometry][notesAG1]
 - [交換代數][noteCommAlg1]
