@@ -14,6 +14,9 @@ layout: page
 
 ## [調和分析 / Harmonic Analysis][notesHA1]
 
+## [自守表現 / Automorphic representation]
+-[GL(2)][noteGL(2)mlclass]
+
 ## [代數幾何 / Algebraic Geometry][notesAG1]
 - [交換代數][noteCommAlg1]
 
@@ -27,6 +30,8 @@ layout: page
 [noteESisomclassical]:/notefiles/Eichler_Shimura_isomorphism.pdf
 
 [notesHA1]:/notefiles/Harmonic_analysis.pdf
+
+[noteGL(2)mlclass]:\notefile/GL(2)mlclass.pdf
 
 [notesAG1]:/notefiles/Algebraic_geometry.pdf
 
