@@ -19,7 +19,7 @@ layout: page
 
 ## [Algebraic Geometry][notesAG1]
 - [commutative algebra][noteCommAlg1]
-- [affine algebraic groups][noteAffAlgGp1]
+- [affine group schemes][noteAffAlgGp1]
 
 [notesLA1]:/notefiles/Linear_algebra.pdf
 [convpowerseries]:/notefiles/Convergent_power_series_and_Taylor_expansions.pdf
@@ -35,5 +35,5 @@ layout: page
 [noteGL(2)mlclass]:/notefiles/GL(2)mlclass.pdf
 
 [notesAG1]:/notefiles/Algebraic_geometry.pdf
-[notesAffAlgGp1]:/notefiles/AffGpSch.pdf
+[noteAffAlgGp1]:/notefiles/AffGpSch.pdf
 
