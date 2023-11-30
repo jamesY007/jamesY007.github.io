@@ -8,6 +8,7 @@ layout: page
 - [Convergent power series and Taylor expansion][convpowerseries]
 
 ## [Algebra][noteAlg1]
+-[Basic category theory][basiccattheory1]
 
 ## [Algebraic Number Theory][noteAlgNT1]
 - [Eichler-Shimura isomorphisms for modular curves][noteESisomclassical]
@@ -25,6 +26,7 @@ layout: page
 [convpowerseries]:/notefiles/Convergent_power_series_and_Taylor_expansions.pdf
 
 [noteAlg1]:/notefiles/Algebra_Note.pdf
+[basiccattheory1]:/notefiles/Category_theory.pdf
 [noteCommAlg1]:/notefiles/Commutative_Algebras.pdf
 
 [noteAlgNT1]:/notefiles/AlgNT.pdf
