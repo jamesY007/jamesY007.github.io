@@ -1,0 +1,14 @@
+---
+title: About
+layout: default
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ aaaaaaa | lowercase }}</h1>
+  </body>
+</html>
