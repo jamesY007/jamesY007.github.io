@@ -13,4 +13,11 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/notes.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/note_files/harmonic_analysis.pdf</loc>
+<lastmod>2024-09-12T17:22:49+02:00</lastmod>
+</url>
 </urlset>

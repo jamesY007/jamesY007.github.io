@@ -6,3 +6,6 @@
 
 - name: Blog
   line: /blog.html
+
+- name: Note
+  line: /notes.html
