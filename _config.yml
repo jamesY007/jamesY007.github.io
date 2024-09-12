@@ -1,9 +1,0 @@
-collections:
-  authors:
-
-theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
