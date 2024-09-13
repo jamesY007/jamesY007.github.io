@@ -1,18 +1,29 @@
 <nav>
   
-  <a href="/" {% if page.url == "/" %}style="color: purple;"{% endif %}>
+  <a href="/"
+     style = "margin:10px ; {%if page.url == "/" %}color: blue;{% endif %}"
+  >
     Home
   </a>
-  
-  <a href="/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+   
+  <a href="/about.html"
+     style = "margin:10px ; {%if page.url == "/about.html" %}color: blue;{% endif %}"
+  >
     About
   </a>
 
-   <a href="/blog.html" {% if page.url == "/blog.html" %}style="color: red;"{% endif %}>
+  <a href="/blog.html"
+     style = "margin:10px ; {%if page.url == "/blog.html" %}color: blue;{% endif %}"
+  >
     Blog
-   </a>
+  </a>
 
-   <a href="/notes.html" {% if page.url == "/notes.html" %}style="color: red;"{% endif %}>
+  <a href="/notes.html"
+     style = "margin:10px ; {%if page.url == "/notes.html" %}color: blue; font-size:30px;{% endif %}"
+  >
     Note
   </a>
 </nav>
+
+
+<h>-------------------------------------------------------------</h>
