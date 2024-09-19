@@ -12,8 +12,8 @@ git add --all
 git commit -m "words"
 
 git push -u origin main
-
-
+<br>
+</br>
 git rm file name   <!-- remove file  -->
 
 git mv oldfile_name newfile_name  <!-- rename file -->
