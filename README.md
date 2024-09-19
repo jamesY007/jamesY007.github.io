@@ -18,8 +18,8 @@ git mv oldfilename newfilename  <!-- rename file -->
 
 -----------------------
 
-cd ~/
+cd ~   從用戶開始算
 
-cd -   <!-- one directory back -->
+cd -   往回一頁
 
 
