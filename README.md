@@ -1,7 +1,7 @@
-## personal-page
+# personal-page
 
 
-# Git 指令
+## Git 指令
 
 git clone repositories_name
 
@@ -19,7 +19,7 @@ git mv oldfile_name newfile_name  <!-- rename file -->
 
 -----------------------
 
-# 終端機指令
+## 終端機指令
 
 cd ~   從用戶開始算
 cd ..  往回一頁
