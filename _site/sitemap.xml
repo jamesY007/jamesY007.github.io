@@ -17,6 +17,10 @@
 <loc>http://localhost:4000/notes.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/note_files/Note_on_Eichler_Shimura_isomorphism.pdf</loc>
+<lastmod>2024-09-22T10:51:55-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/note_files/harmonic_analysis.pdf</loc>
 <lastmod>2024-09-19T15:54:07-04:00</lastmod>
 </url>
