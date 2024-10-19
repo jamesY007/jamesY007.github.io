@@ -7,9 +7,9 @@ title: Expsum
 
 The goal is to grasp a holoscope of various aspects of exponential sums. Specifically, one short term goal is to familiarize ourselves with
 
-1. analytic techniques to bound various exponential sums (like Kloosterman sum and incomplete sum)  
+1. analytic techniques to bound various exponential sums (like Kloosterman sum and incomplete sum): [subsite](/expsum_files/ant.md)  
 
-2. [cohomological interpretation of exponential sum in terms of $\ell$-adic sheaves](/expsum_files/ladic.md)
+2. cohomological interpretation of exponential sum in terms of $\ell$-adic sheaves: [subsite](/expsum_files/ladic.md)
 
 
 
