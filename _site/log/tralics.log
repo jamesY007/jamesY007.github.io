@@ -1,0 +1,19 @@
+This is tralics 2.15.1, a LaTeX to XML translator, running on yaohaoyundeAir
+Copyright INRIA/MIAOU/APICS/MARELLE 2002-2012, Jos\'e Grimm
+Licensed under the CeCILL Free Software Licensing Agreement
+Starting translation of file /var/folders/yj/_50y96gd1b5fq7fcdsfm4yp40000gn/T/polytex20241019-9266-qwxbt.tex.
+Dummy default configuration file used.
+Error signaled at line 51 of file /var/folders/yj/_50y96gd1b5fq7fcdsfm4yp40000gn/T/polytex20241019-9266-qwxbt.tex:
+Undefined command {Character # of catcode 6}; command code = 6.
+Error signaled at line 51 of file /var/folders/yj/_50y96gd1b5fq7fcdsfm4yp40000gn/T/polytex20241019-9266-qwxbt.tex:
+Undefined command {Character # of catcode 6}; command code = 6.
+Bib stats: seen 0 entries.
+Math stats: formulas 0, kernels 0, trivial 0, \mbox 0, large 0, small 0.
+Buffer realloc 9, string 1497, size 17303, merge 0
+Macros created 224, deleted 12; hash size 2426; foonotes 0.
+Save stack +34 -34.
+Attribute list search 1555(1505) found 1097 in 1138 elements (1120 at boot).
+Number of ref 0, of used labels 0, of defined labels 0, of ext. ref. 0.
+Output written on /var/folders/yj/_50y96gd1b5fq7fcdsfm4yp40000gn/T/polytex20241019-9266-qwxbt.xml (1397 bytes).
+There were 2 errors.
+(For more information, see transcript file /var/folders/yj/_50y96gd1b5fq7fcdsfm4yp40000gn/T/polytex20241019-9266-qwxbt.log)

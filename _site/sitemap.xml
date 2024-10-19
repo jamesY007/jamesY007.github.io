@@ -11,6 +11,9 @@
 <loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/expsum.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -27,6 +30,10 @@
 <url>
 <loc>http://localhost:4000/note_files/algebraic_geometry.pdf</loc>
 <lastmod>2024-09-24T10:32:33-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/note_files/algebraic_number_theory.pdf</loc>
+<lastmod>2024-10-09T20:59:50-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/note_files/harmonic_analysis.pdf</loc>
