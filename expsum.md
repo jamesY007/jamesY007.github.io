@@ -14,7 +14,7 @@ This is the homepage for Exponential Sum student seminar in Duke 2025 Spring. Th
 3. cohomological intrepretation of exponential sum in terms of $\ell$-adic sheaves.
 
 
-## Primary references include:
+### Primary references include:
 
 [Weil Conjectures, Perverse Sheaves and $\ell$-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3), By Reinhardt Kielhl and Rainer Weissauer
 
