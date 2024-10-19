@@ -3,9 +3,9 @@ layout: indepsite
 title: Expsum
 ---
 
+# Student Seminar on Exponential Sum
 
-
-This is the homepage for Exponential Sum student seminar in Duke 2025 Spring. The goal is to grasp a holoscope of various aspects of exponential sums. Specifically, one short term goal is to  familiarize ourselves with
+The goal is to grasp a holoscope of various aspects of exponential sums. Specifically, one short term goal is to  familiarize ourselves with
 
 1. analytic techniques to bound various exponential sums (like Kloosterman sum and incomplete sum),
 
