@@ -16,7 +16,7 @@ This is the homepage for Exponential Sum student seminar in Duke 2025 Spring. Th
 
 ### Primary references include:
 
-[Weil Conjectures, Perverse Sheaves and $\ell$-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3), By Reinhardt Kielhl and Rainer Weissauer
+[Weil Conjectures, Perverse Sheaves and $\ell$-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3), by Reinhardt Kielhl and Rainer Weissauer
 
 [Analytic Number Theory](https://bookstore.ams.org/view?ProductCode=COLL/53), by Henryk Iwaniec and Emmanuel Kowalski
 
