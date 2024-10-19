@@ -1,5 +1,5 @@
 ---
 layout : indepsite
-title : $\ell$-adic sheaf
+title : exponential sum - cohomological viewpoint
 ---
 
