@@ -1,6 +1,6 @@
 ---
 layout: indepsite
-title: Expsum
+title: ExpSum
 ---
 
 # Student Seminar on Exponential Sum
