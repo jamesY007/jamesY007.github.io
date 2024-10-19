@@ -3,4 +3,4 @@ layout: indepsit
 title: exponential sums - analytic viewpoint
 ---
 
-[Back to Top](~/expsum.md)
+[Back to Top](jamesY007.github.io/expsum.md)
