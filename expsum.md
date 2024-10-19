@@ -11,7 +11,7 @@ The goal is to grasp a holoscope of various aspects of exponential sums. Specifi
 
 2. application of exponential sum in different subfield of maths, and
 
-3. cohomological intrepretation of exponential sum in terms of $\ell$-adic sheaves [see more](/expsum_files/ladic.md)
+3. cohomological intrepretation of exponential sum in terms of $\ell$-adic sheaves. [see more](/expsum_files/ladic.md)
 
 
 
