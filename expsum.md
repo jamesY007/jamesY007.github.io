@@ -5,6 +5,8 @@ title: ExpSum
 
 # Student Seminar on Exponential Sum
 
+---
+
 The goal is to grasp a holoscope of various aspects of exponential sums. Specifically, one short term goal is to familiarize ourselves with
 
 1. analytic techniques to bound various exponential sums (like Kloosterman sum and incomplete sum): [subsite](/expsum_files/ant.md)  
