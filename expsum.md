@@ -4,7 +4,6 @@ title: ExpSum
 ---
 
 # Student Seminar on Exponential Sum
-
 ---
 
 The goal is to grasp a holoscope of various aspects of exponential sums. Specifically, one short term goal is to familiarize ourselves with
