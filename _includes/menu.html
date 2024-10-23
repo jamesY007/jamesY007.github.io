@@ -2,7 +2,7 @@
 <nav>
 
   {% for item in site.data.menu %}
-    <a href="{{ item.link }}" style = "margin:10px ; {%if page.url == item.link %}font-size:30px;color:blue;{% endif %}; {%if item == CV %}color:aqua;{% endif %}"
+    <a href="{{ item.link }}" style = "margin:10px ; {%if page.url == item.link %}font-size:30px;color:blue;{% endif %} {%if item == CV %}color:aqua;{% endif %}"
        {%if item == CV %} target = "_blank" {% endif %}
     >
       {{ item.name }}
