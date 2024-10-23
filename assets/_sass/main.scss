@@ -1,10 +1,14 @@
 
-a:hover{
+a:hover{ /* 滑鼠懸停 */
     background: lightblue;
 }
 
-a:visited{
+a:visited{ /* 已訪問 */
     color:green;
+}
+
+a:link{ /* 未訪問 */
+  color:brown;
 }
 
 body{
