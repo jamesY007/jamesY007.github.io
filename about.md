@@ -3,6 +3,8 @@ title: About
 layout: default
 ---
 
+<body style="margin:0;padding:0">
+
 I'm   <font size =5pt> HaoYun Yao</font>   from Taiwan. I earned my bachlor and master degree at National Taiwan university under the supervision by <a href="https://www.math.ntu.edu.tw/~mlhsieh/" target="_blank"> Ming-Lun Hsieh</a>.
 
 From 2023 fall I started my ph.D in mathematics at Duke university, and is now a second year. My advisor is  <a href="https://sites.duke.edu/jgetz/"  target="_blank"> Jayce Get</a>. 
