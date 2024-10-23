@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../_sass/main.scss"],"names":[],"mappings":"AACA;EACI;;;AAGJ;EACI;;;AAGJ;EACI;EACA","sourcesContent":["\na:hover{\n    background: lightblue;\n}\n\na:visited{\n    color:green;\n}\n\nbody{\n    background-color: #FFF0F5;\n    margin-right: 100px;\n}\n"],"file":"styles.css"}

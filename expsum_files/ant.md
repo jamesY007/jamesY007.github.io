@@ -1,5 +1,5 @@
 ---
-layout: indepsit
+layout: indepsite
 title: exponential sums - analytic viewpoint
 ---
 

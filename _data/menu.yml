@@ -4,8 +4,11 @@
 - name: About
   link: /about.html
 
+- name: CV
+  link: /files/CV.pdf
+
 - name: Blog
-  line: /blog.html
+  link: /blog.html
 
 - name: Note
-  line: /notes.html
+  link: /notes.html

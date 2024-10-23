@@ -1,9 +1,10 @@
-collections:
-  authors:
+
+sass:
+  sass_dir: assets/css
+  style: compressed
 
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  # - jekyll-latex

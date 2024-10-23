@@ -1,0 +1,14 @@
+a:hover {
+  background: lightblue;
+}
+
+a:visited {
+  color: green;
+}
+
+body {
+  background-color: #FFF0F5;
+  margin-right: 100px;
+}
+
+/*# sourceMappingURL=styles.css.map */
