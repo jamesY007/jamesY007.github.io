@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-<body style="margin:0;padding:0">
+
 
 I'm   <font size =5pt> HaoYun Yao</font>   from Taiwan. I earned my bachlor and master degree at National Taiwan university under the supervision by <a href="https://www.math.ntu.edu.tw/~mlhsieh/" target="_blank"> Ming-Lun Hsieh</a>.
 
