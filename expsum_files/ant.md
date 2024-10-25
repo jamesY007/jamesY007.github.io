@@ -6,7 +6,7 @@ title: exponential sums - analytic viewpoint
 [Back to Top](../expsum.md)
 
 
-##Possible topics
+## Possible topics
 
 1. Mild introduction of $$L$$-functions
 
