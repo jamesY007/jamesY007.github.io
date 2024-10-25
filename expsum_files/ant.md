@@ -20,7 +20,7 @@ title: exponential sums - analytic viewpoint
 
 7. character sum
 
-8. automorphic forms of $$\mathrm{GL}(2)$$
+8. automorphic forms on $$\mathrm{GL}(2)$$
 
 9. equidistributions
 
