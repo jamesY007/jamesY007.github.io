@@ -33,4 +33,4 @@ title: exponential sums - analytic viewpoint
 
 [New large value estimates for Dirichlet polynomial](https://arxiv.org/abs/2405.20552), by Larry Guth, James Maynard
 
-[Applications of symmetric power $$L$$-functions](https://mast.queensu.ca/~murty/Murty.pdf), by Ram Murty
+[Applications of symmetric power L-functions](https://mast.queensu.ca/~murty/Murty.pdf), by Ram Murty
