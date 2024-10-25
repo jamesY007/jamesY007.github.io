@@ -23,3 +23,14 @@ title: exponential sums - analytic viewpoint
 7. automorphic forms of $$\mathrm{GL}(2)$$
 
 8. circle method
+
+
+## References
+
+[Analytic Number Theory](https://bookstore.ams.org/view?ProductCode=COLL/53), by Henryk Iwaniec and Emmanuel Kowalski
+
+[Topics in Classical Automorphic Forms](https://bookstore.ams.org/gsm-17), by Henryk Iwaniec
+
+[New large value estimates for Dirichlet polynomial](https://arxiv.org/abs/2405.20552), by Larry Guth, James Maynard
+
+[Applications of symmetric power $$L$$-functions](https://mast.queensu.ca/~murty/Murty.pdf), by Ram Murty
