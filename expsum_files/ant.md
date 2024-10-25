@@ -10,19 +10,21 @@ title: exponential sums - analytic viewpoint
 
 1. Mild introduction of $$L$$-functions
 
-2. Exponential sum 
+2. Introduction to exponential sum and its applications?
 
-3. Dirichlet polynomials, and its implication towards zero density
+4. Dirichlet polynomials, and its implication towards zero density
 
-4. Large sieve inequality
+5. Large sieve inequality
 
-5. Sum over finite field and kloosterman sum
+6. Sum over finite field and kloosterman sum
 
-6. character sum
+7. character sum
 
-7. automorphic forms of $$\mathrm{GL}(2)$$
+8. automorphic forms of $$\mathrm{GL}(2)$$
 
-8. circle method
+9. equidistributions
+
+10. circle method
 
 
 ## References
