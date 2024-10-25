@@ -14,8 +14,12 @@ title: exponential sums - analytic viewpoint
 
 3. Dirichlet polynomials, and its implication towards zero density
 
-4. Sum over finite field and kloosterman sum
+4. Large sieve inequality
 
-5. character sum
+5. Sum over finite field and kloosterman sum
 
-6. automorphic forms of $$\mathrm{GL}(2)$$
+6. character sum
+
+7. automorphic forms of $$\mathrm{GL}(2)$$
+
+8. circle method
