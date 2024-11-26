@@ -25,7 +25,7 @@ Chapter 5 of this contains an quick introduction to $\ell$-adic (perverse) sheav
 
 [Weil’s Conjecture for Function Fields I](https://people.math.harvard.edu/~lurie/papers/tamagawa-abridged.pdf), by Dennis Gaitsgory and Jacob Lurie.
 
-### Remark. 
+#### Remark. 
 This is not the Weil conjecture we are aiming to understand, but the Weil conjecture on the Tamagawa number. Nevertheless, the chapters 2, 3 contain a $\infty$-categorical way of constructing the category of $\ell$-adic sheaves, which seems to be neater than the classical way. A caveat: they in the book require the scheme to be quasi-projective, but most of the results should remain true in the algebraic scheme under some dimension assumption.
 
 
