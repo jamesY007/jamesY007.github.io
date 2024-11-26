@@ -3,7 +3,7 @@ layout: indepsite
 title: $\ell$-adic sheaves toward exponential sums
 ---
 
-# Student Seminar on $l$
+# Student Seminar on $\ell$-adic sheaves toward exponential sums
 ---
 
 The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheaves (complex or $\ell$-adic). The final goals are two-fold: 
