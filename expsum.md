@@ -21,6 +21,8 @@ The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheave
 
 [Perverse sheaves and applications to representation theory](https://bookstore.ams.org/surv-258/), by Pramod N. Achar.
 
+Chapter 5 of this contains an quick introduction to $\ell$-adic (perverse) sheaves. Chapter 1 to 3 of this book seems to be a thorough account of complex perverse sheaves.
+
 [Weil’s Conjecture for Function Fields I](https://people.math.harvard.edu/~lurie/papers/tamagawa-abridged.pdf), by Dennis Gaitsgory and Jacob Lurie.
 
 ### Remark. 
