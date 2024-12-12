@@ -1,6 +1,6 @@
 ---
 layout: indepsite
-title: $\ell$-adic sheaves toward exponential sums
+title: l-adic sheaves toward exponential sums
 ---
 
 # Student Seminar on $\ell$-adic sheaves toward exponential sums
