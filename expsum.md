@@ -18,11 +18,11 @@ The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheave
 
 2. Classical derived category, triangulated category, truncation and $t$-structure
 
-3. Constructible sheaves
+3. Infinity category and stable infinity category ???
 
-4. Complex perverse sheaves
+4. Constructible sheaves
 
-5. Infinity category and stable infinity category ???
+5. Complex perverse sheaves
 
 6. Formalism of $\ell$-adic sheaves, after (iv)
 
