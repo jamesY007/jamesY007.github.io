@@ -34,7 +34,7 @@ This is not the Weil conjecture we are aiming to understand, but the Weil conjec
 ---
 ## Topics related to perverse sheaves.
 
-I want to toss out some applications of perverse sheaves that looks interesting to me. People might also feel motivating from these. 
+I want to toss out some applications of perverse sheaves that looks interesting to me. People might also feel motivating from these. There should also be applications to algebraic geometry.
 
 1. **Function-sheaf dictionary** [(i), Theorem 12.1] provides a correspondence between functions and perverse sheaves over an algebraic scheme over a finite field. In the context of Braverman-Kazhdan program, there is an IC sheaf, namely a simple object in the category of perverse sheaves, that corresponds to the basic function in the positive characteristic case. See [[Ngo20](https://www.math.uchicago.edu/~ngo/takagi.pdf)].
 
