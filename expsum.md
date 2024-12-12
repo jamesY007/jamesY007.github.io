@@ -6,14 +6,30 @@ title: $\ell$-adic sheaves toward exponential sums
 # Student Seminar on $\ell$-adic sheaves toward exponential sums
 
 
-The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheaves (complex or $\ell$-adic). The goals are two-fold: 
+The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheaves (complex or $\ell$-adic). Primary goals: 
 
-1. understand Deligne's proof of Weil conjecture/Riemann hypothesis for function fields, and
+(a) understand Deligne's proof of Weil conjecture/Riemann hypothesis for function fields, and
 
-2. understand cohomological interpretation of exponential sums.
+(b) understand cohomological interpretation of exponential sums.
+
+## Tentative Schedule
+
+1. Overview
+
+2. Classical derived category, triangulated category, truncation and $t$-structure
+
+3. Constructible sheaves
+
+4. Complex perverse sheaves
+
+5. Infinity category and stable infinity category ???
+
+6. Formalism of $\ell$-adic sheaves, after (iv)
+
+7. $\ell$-adic perverse sheaves
 
 ---
-## Primary references:
+## Possible references:
 
 (i)   [Weil Conjectures, Perverse Sheaves and $\ell$-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3), by Reinhardt Kielhl and Rainer Weissauer
 
@@ -38,7 +54,7 @@ I want to toss out some applications of perverse sheaves that looks interesting 
 
 1. **Function-sheaf dictionary** [(i), Theorem 12.1] provides a correspondence between functions and perverse sheaves over an algebraic scheme over a finite field. In the context of Braverman-Kazhdan program, there is an IC sheaf, namely a simple object in the category of perverse sheaves, that corresponds to the basic function in the positive characteristic case. See [[Ngo20](https://www.math.uchicago.edu/~ngo/takagi.pdf)].
 
-2. **Weights** [(i), $\S$ 1], more or less the eigenvalues of Frobinius, along with the **Grothendieck's trace formula** allow us to interpret a complete exponential sum as an alternating sum of dimensions of $\ell$-adic cohomologies. The main tools here are **Deligne-Fourier transform** and Artin-Schreier sheaves. See [(ii)] and [(i), $\S$ 5].
+2. **Weights** [(i), $\S$ 1], more or less the eigenvalues of Frobinius, along with the **Grothendieck's trace formula** allow us to interpret a complete exponential sum / a Kloosterman sum  as an alternating sum of dimensions of $\ell$-adic cohomologies, giving the best estimate. The main tools here are **Deligne-Fourier transform** and Artin-Schreier sheaves. See [(ii)] and [(i), $\S$ 5].
  
 3. **Geometric Langlands** and **geometric representation theory**. These I don't know well, but they are function field version of the classical Langlands over number fields. The common language used in that realm is surely perverse sheaves. For me I would like to know what is the content of geometric Satake, or derived Satake.
 
