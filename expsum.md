@@ -28,6 +28,8 @@ The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheave
 
 7. $\ell$-adic perverse sheaves
 
+add more
+
 ---
 ## Possible references:
 
