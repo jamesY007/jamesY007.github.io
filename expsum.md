@@ -12,6 +12,11 @@ The goal is to familarize ourselves with $\ell$-adic sheaves and perverse sheave
 
 (b) understand cohomological interpretation of exponential sums.
 
+## Place
+
+Saturday 2pm ~ 4pm? at Gross somewhere
+
+
 ## Tentative Schedule
 
 1. Overview
