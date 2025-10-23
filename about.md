@@ -14,3 +14,14 @@ From 2023 fall I started my ph.D in mathematics at Duke university, and is now a
 -->
 
 
+## Article
+
+[3] Schwartz spaces for reductive monoids, in progress
+
+[2] Modulation groups, in progress
+
+[1] Triple product L-functions and the Ramanujan conjecture (with Heekyoung Hahn and Jayce R. Getz), submitted. 
+    <a href="https://arxiv.org/abs/2509.14381" target = "_blank;"
+    >
+     [Arxiv]
+    </a> 
