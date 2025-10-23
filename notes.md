@@ -5,7 +5,7 @@ title: note
 
 # Warehouse
 
-## General note
+## General notes
 
 ### [Harmonic Analysis](/note_files/harmonic_analysis.pdf)
 
@@ -15,7 +15,7 @@ title: note
 
 ### [Commutative Algebra](/note_files/Commutative_Algebras.pdf)
 
-## Miscellany
+## Miscellanies
 
 ### [Eichler-Shimura isomorphism](/note_files/Note_on_Eichler_Shimura_isomorphism.pdf)
 
