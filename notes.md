@@ -11,6 +11,9 @@ title: note
 
 ### [Algebraic Geometry](/note_files/algebraic_geometry.pdf)
 
+### [Basic Algebra](/note_files/Algebra_Note.pdf)
+
+### [Commutative Algebra](/note_files/Commutative_Algebras.pdf)
 
 ## Miscellany
 
@@ -19,3 +22,6 @@ title: note
 ### [Algebraic Number Theory, Cassels & Frohlich](/note_files/algebraic_number_theory.pdf)
 
 ### [Note on GL(2)](/note_files/note_on_GL(2).pdf)
+
+### [Introduction to Tate thesis](/note_files/Introduction_to_Tate_thesis.pdf)
+
