@@ -19,7 +19,11 @@ I'm generally intrigued by all topics related to Fourier transforms.
 
 [3] Schwartz spaces for reductive monoids, in progress
 
-[2] Modulation groups, in progress
+[2] Modulation groups (with Jayce R. Getz, Armando Gutiérrez Terradillos, Farid Hosseinijafari, Bryan Hu, Seewoo Lee, Aaron Slipper, Marie-Hélène Tomé, Alan Zhao),
+    <a href="https://arxiv.org/abs/2510.23932" target = "_blank;"
+    >
+     [arxiv]
+    </a>.
 
 [1] Triple product L-functions and the Ramanujan conjecture (with Heekyoung Hahn and Jayce R. Getz), submitted 
     <a href="https://arxiv.org/abs/2509.14381" target = "_blank;"
