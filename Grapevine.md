@@ -25,7 +25,7 @@ Registration is now closed.
  |  :----:        |--- | :----:          |--- |    :----:       |--- |         :----:|---|   :----:    |
  |  10:05 -       || Horace Fusco     || Ruijie Zhang     | | HaoYun Yao    ||     TBA      |
  |              | 
- |                | Ruijie Zhang |                  || Horace Fusco || Horace Fusco | |      Jin Lee|
+ |                || Ruijie Zhang |                  | Horace Fusco || Horace Fusco | |      Jin Lee|
  |     |  
 |                 |  |               ||Ezra Aylaian ||HaoYun Yao || Jin Lee|
 |    |
