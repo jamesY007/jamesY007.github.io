@@ -10,6 +10,8 @@ title: Grapevine conference
 
 Grapevine says that Langlands programmers at Durham are having a year ending conference.
 
+<img src="/apple.jpg" alt="apple farm" width="300" height="200">
+
 ---
 
 Registration is now closed.
