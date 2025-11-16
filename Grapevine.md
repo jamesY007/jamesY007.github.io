@@ -3,13 +3,19 @@ layout: indepsite
 title: Grapevine conference
 ---
 
-# Grapevine 
-
-In celebrating 23rd birthdays of David Schmid and Erin Delargy
+### In celebrating 23rd birthdays of David Schmid and Erin Delargy
 
 
-### Date : 6 - 9 December
+
+Registration is now closed.
+
+##
+
+### Date : 6 - 9 December 2025
 ### Location : Gross Hall, Duke University
+
+
+
 
 
 ## Confirmed speakers:
