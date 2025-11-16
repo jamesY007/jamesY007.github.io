@@ -5,7 +5,7 @@ title: Grapevine conference
 
 ## In celebrating 23rd birthdays of David Schmid and Erin Delargy
 
-
+---
 
 Registration is now closed.
 
@@ -14,7 +14,7 @@ Registration is now closed.
 
 
 
-
+---
 
 ## Confirmed speakers:
 
