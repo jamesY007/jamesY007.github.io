@@ -27,11 +27,11 @@ Horace Fusco, Duke university
 
 Ruijie (Jared) Zhang, Duke university
 
-HaoYun Yao, Duke university
+[HaoYun Yao](https://jamesy007.github.io), Duke university
 
-Jin Lee, Duke university
+[Jin Lee](https://jin-lee-gh.github.io/math-profile/), Duke university
 
-Ezra Aylaian, Duke university
+[Ezra Aylaian](https://sites.math.duke.edu/~eaylaian/), Duke university
 
 
 
