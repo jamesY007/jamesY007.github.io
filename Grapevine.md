@@ -3,6 +3,9 @@ layout: indepsite
 title: Grapevine conference
 ---
 
+# Grapevine @ Duke
+
+
 ## In celebrating 23rd birthdays of David Schmid and Erin Delargy
 
 ---
