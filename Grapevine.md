@@ -19,15 +19,15 @@ Registration is now closed.
 
 ### Time table:
 
-|  Time            | 12/6             | 12/7             | 12/8          |     12/9    | 
-|   :----:         | :----:           |    :----:        |         :----:|   :----:    |
-|   10:05 -       | Horace Fusco     | Ruijei Zhang      | HaoYun Yao    |     TBA      |
-|               | 
-|                 |                   | Horace Fusco | Horace Fusco |       Jin Lee|
-|      |  
-|                 |                 |Ezra Aylaian | HaoYun Yao | Jin Lee|
+ | Time            | 12/6             | 12/7             | 12/8          ||     12/9    |  
+ |  :----:         | :----:           |    :----:        |         :----:|---|   :----:    |
+ |  10:05 -       | Horace Fusco     | Ruijei Zhang      | HaoYun Yao    ||     TBA      |
+ |              | 
+ |                |                   | Horace Fusco | Horace Fusco | |      Jin Lee|
+ |     |  
+|                 |                 |Ezra Aylaian | HaoYun Yao || Jin Lee|
 |    |
-|                 |                  | HaoYun Yao | Ruijei Zhang | Ezra Aylaian |
+|                 |                  | HaoYun Yao | Ruijei Zhang || Ezra Aylaian |
 
 ---
 
