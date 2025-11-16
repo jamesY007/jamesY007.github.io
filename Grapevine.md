@@ -8,6 +8,8 @@ title: Grapevine conference
 
 ## In celebrating 23rd birthdays of David Schmid and Erin Delargy
 
+Grapevine says that Langlands programmers at Durham are having a year ending conference.
+
 ---
 
 Registration is now closed.
