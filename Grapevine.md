@@ -6,7 +6,7 @@ title: Grapevine conference
 # Grapevine @ Duke
 
 
-## In celebrating 23rd birthdays of David Schmid and Erin Delargy
+## In celebrating 23rd birthdays of David Schmidt and Erin Delargy
 
 Grapevine says that Langlands programmers at Durham are having a year ending conference.
 
