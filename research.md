@@ -17,7 +17,10 @@ I'm generally intrigued by all topics related to Fourier transforms.
 
 ## Article
 
-[3] Schwartz spaces for reductive monoids, in progress
+[3] The ρ-Schwartz space (with Jayce R. Getz, Armando Gutiérrez Terradillos, Farid Hosseinijafari, Aaron Slipper, Guodong Xi, HaoYun Yao, Alan Zhao),  <a href="https://arxiv.org/abs/2512.00182" target = "_blank;"
+    >
+     [arxiv]
+    </a>.
 
 [2] Modulation groups (with Jayce R. Getz, Armando Gutiérrez Terradillos, Farid Hosseinijafari, Bryan Hu, Seewoo Lee, Aaron Slipper, Marie-Hélène Tomé, Alan Zhao),
     <a href="https://arxiv.org/abs/2510.23932" target = "_blank;"
