@@ -23,13 +23,13 @@ Registration is now closed.
 
  | Time           | | 12/6            | | 12/7            | | 12/8          ||     12/9    |  
  |  :----:        |--- | :----:          |--- |    :----:       |--- |         :----:|---|   :----:    |
- |  10:05 -       || Horace Fusco     || Ruijie Zhang     | | HaoYun Yao    ||     TBA      |
+ |  10:05 -       || Horace Fusco     || Ruijie Zhang     | | HaoYun Yao    ||     Rohit Kumar      |
  |              | 
- |                || Ruijie Zhang |                  | Horace Fusco || Horace Fusco | |      Jin Lee|
+ |   13:30 -            || |                  | Horace Fusco || Ruijie Zhang  | |   Horace Fusco   |
  |     |  
-|                 |  |               ||Ezra Aylaian ||HaoYun Yao || Jin Lee|
+|       17:00 -         |  |               ||Jin Lee ||HaoYun Yao ||Kai Wang |
 |    |
-|                 |   |               || HaoYun Yao || Ruijie Zhang || Ezra Aylaian |
+|     20:00  -          |   |               || HaoYun Yao || Ruijie Zhang || Ezra Aylaian |
 
 ---
 
