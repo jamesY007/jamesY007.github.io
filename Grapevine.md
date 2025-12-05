@@ -25,9 +25,9 @@ Registration is now closed.
  |  :----:        |--- | :----:          |--- |    :----:       |--- |         :----:|---|   :----:    |
  |  10:05 -       || Horace Fusco     || Ruijie Zhang     | | HaoYun Yao    ||     Rohit Kumar      |
  |              | 
- |   15:00 -            || |                  | Horace Fusco || Ruijie Zhang  | |   Horace Fusco   |
+ |   15:00 -            || |                  | Horace Fusco || Ruijie Zhang  | |     Kai Wang  |
  |     |  
-|       17:00 -         |  |               ||Jin Lee ||HaoYun Yao ||Kai Wang |
+|       17:00 -         |  |               ||Jin Lee ||HaoYun Yao ||Horace Fusco|
 |    |
 |     20:00  -          |   |               || HaoYun Yao || Ruijie Zhang || Ezra Aylaian |
 
