@@ -25,3 +25,4 @@ title: note
 
 ### [Introduction to Tate thesis](/note_files/Introduction_to_Tate_thesis.pdf)
 
+### [Representations by quadratic forms; a circle method after Kloosterman](/note_files/)
