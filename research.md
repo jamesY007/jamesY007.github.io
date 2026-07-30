@@ -17,6 +17,11 @@ I'm generally intrigued by all topics related to Fourier transforms.
 
 ## Article
 
+<!--  [5] Locality of Schwartz spaces on affine toric varieties. 
+-->
+
+[4] Schwartz spaces on L-monoids: non-Archimedean (with Chun-Hsien Hsu), 
+
 [3] The ρ-Schwartz space (with Jayce R. Getz, Armando Gutiérrez Terradillos, Farid Hosseinijafari, Aaron Slipper, Guodong Xi, HaoYun Yao, Alan Zhao),  <a href="https://arxiv.org/abs/2512.00182" target = "_blank;"
     >
      [arxiv]
@@ -28,7 +33,7 @@ I'm generally intrigued by all topics related to Fourier transforms.
      [arxiv]
     </a>.
 
-[1] Triple product L-functions and the Ramanujan conjecture (with Heekyoung Hahn and Jayce R. Getz), submitted 
+[1] Triple product L-functions and the Ramanujan conjecture (with Heekyoung Hahn and Jayce R. Getz), Proceedings of the American Mathematical Society, accepted. 
     <a href="https://arxiv.org/abs/2509.14381" target = "_blank;"
     >
      [arxiv]
