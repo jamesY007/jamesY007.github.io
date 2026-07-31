@@ -20,7 +20,10 @@ I'm generally intrigued by all topics related to Fourier transforms.
 <!--  [5] Locality of Schwartz spaces on affine toric varieties. 
 -->
 
-[4] Schwartz spaces on L-monoids: non-Archimedean (with Chun-Hsien Hsu), 
+[4] Schwartz spaces on L-monoids: non-Archimedean (with Chun-Hsien Hsu), <a href="https://arxiv.org/abs/2607.28507" target = "_blank;"
+    >
+     [arxiv]
+    </a>.
 
 [3] The ρ-Schwartz space (with Jayce R. Getz, Armando Gutiérrez Terradillos, Farid Hosseinijafari, Aaron Slipper, Guodong Xi, HaoYun Yao, Alan Zhao),  <a href="https://arxiv.org/abs/2512.00182" target = "_blank;"
     >
