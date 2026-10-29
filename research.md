@@ -5,7 +5,7 @@ layout: default
 
 
 
-I'm   <font size =5pt> HaoYun Yao</font>   from Taiwan. I earned my bachlor and master degree at National Taiwan university under the supervision by <a href="https://www.math.ntu.edu.tw/~mlhsieh/" target="_blank"> Ming-Lun Hsieh</a>.
+I'm   <font size =5pt> HaoYun Yao</font>  from Taiwan. I earned my bachelor and master degree at National Taiwan University under the supervision by <a href="https://www.math.ntu.edu.tw/~mlhsieh/" target="_blank"> Ming-Lun Hsieh</a>.
 
 From 2023 fall I started my ph.D in mathematics at Duke university, and is now a fourth year. My advisor is  <a href="https://sites.duke.edu/jgetz/"  target="_blank"> Jayce R. Getz</a>.
 
