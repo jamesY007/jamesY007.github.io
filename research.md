@@ -12,7 +12,8 @@ From 2023 fall I started my ph.D in mathematics at Duke university, and is now a
 I'm generally intrigued by all topics related to Fourier transforms. Currently I am exploiting the possibility of constructing $\rho$-Schwartz spaces, a lá Braverman-Kazhdan-Ngô, via the spectral method. See [3] and [4] below.
 
 
-## Article
+## Papers
+
 
 
 [4] Schwartz spaces on L-monoids: non-Archimedean (with Chun-Hsien Hsu), <a href="https://arxiv.org/abs/2607.28507" target = "_blank;"
