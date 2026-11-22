@@ -37,31 +37,55 @@ I'll assume the audience knows what the p-adic numbers are. The abstract may be 
 #### Weekend party
 
 
- | Time           |    |       12/5         |   | 12/6                  | 
- |  :----:        |--- |    :----:          |---| :----:                |
- |  9:00  - 10:15 |    |    Turner McLaurin |   | David Schmidt         | 
+ | Time           |    |       12/5         |   | 12/6                  |    | 12 /7 |
+ |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
+ |  9:00  - 10:15 |    |    Turner McLaurin |   | David Schmidt         | | 
  |                |    |                    |   |                       |
- |  10:45 - 12:00 |    |    [Zach Zobair](https://zachzobair.com/)     |   | Kevin Le              |
+ |  10:45 - 12:00 |    |    [Zach Zobair](https://zachzobair.com/)     |   | Kevin Le              | | Simon MacLean
  |                |    |                    |   |                       |
  |  1:30 -   3:30 |    |     HaoYun Yao     |   |  Ruijie Zhang         |
  |                |    |                    |   |                       |
- |  4:00 -   6:00 |    |     Horace Fusco   |   | [Ezra Jordan Aylaian](https://sites.math.duke.edu/~eaylaian/)   | 
+ |  4:00 -   6:00 |    |     Horace Fusco   |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
  |                |    |                    |   |                       |
  |  6:00 - 12:00  |    |       Go home      |   |      Seminar dinner   |
-
-
-#### Horace Fusco
 
 
 #### HaoYun Yao
 
 
+
+#### Horace Fusco
+
+
+
 #### Ruijie Zhang
 
+I will present million ways of proving quadratic reciprocity law.
+
+#### Kevin Le
+
+TBA
+
+#### Turner McLaurin
 
 
 
+#### David Schmidt
 
+TBB
+
+#### Ezra Jordan Aylaian
+
+TBC
+
+#### Zach Zobair
+
+TBD
+
+
+#### Simon MacLean
+
+TBE
 
 
 
