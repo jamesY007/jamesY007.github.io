@@ -54,7 +54,7 @@ click on the name for the abstract below
  |                |    |                    |   |                       |
  |  4:00 -   6:00 |    |     [Horace Fusco](#horace-fusco)   |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
  |                |    |                    |   |                       |
- |  6:00 - 12:00  |    |       Go home      |   |      Seminar dinner   |
+ |  6:00 - 12:00  |    |       Go home      |   |      Conference dinner   |
 
 ----
 
