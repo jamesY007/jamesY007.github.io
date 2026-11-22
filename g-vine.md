@@ -50,45 +50,52 @@ click on the name for the abstract below
  |                |    |                    |   |                       |
  |  6:00 - 12:00  |    |       Go home      |   |      Seminar dinner   |
 
-
+----
 #### HaoYun Yao
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the L-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
 
+----
 #### Horace Fusco
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be a complement to Haoyun's talk. I'll discuss the local theory of L-functions for GL_n defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
 
-
+----
 #### Ruijie Zhang
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Millions of quadratic reciprocity.
 
+----
 #### Kevin Le
 
 TBA
 
+----
 #### Turner McLaurin
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This talk is aimed to answer the following question: what is a gestalten? 
 
+----
 #### David Schmidt
 
 TBB
 
+----
 #### Ezra Jordan Aylaian
 
 TBC
 
+----
 #### Zach Zobair
 
 TBD
 
-
+----
 #### Simon MacLean
 
 TBE
 
+----
 
 
  
