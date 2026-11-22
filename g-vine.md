@@ -36,7 +36,7 @@ TBZ
 
 #### 12/4, 10:00 - 12:00, Kaixin Wang
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will explain various notions of p-adic modular forms. I will start with Serre's approach via q-expansion, then algebraic modular forms and Katz's approach using the ordinary locus and Hasse invariant. Time permitting, I will discuss a third approach about overconvergent modular forms. I'll assume the audience knows what the p-adic numbers are. The abstract may be edited slightly, but it is more or less what it will be.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will explain various notions of p-adic modular forms. I will start with Serre's approach via $q$-expansion, then algebraic modular forms and Katz's approach using the ordinary locus and Hasse invariant. Time permitting, I will discuss a third approach about overconvergent modular forms. I'll assume the audience knows what the $p$-adic numbers are. The abstract may be edited slightly, but it is more or less what it will be.
 
 ----
 
