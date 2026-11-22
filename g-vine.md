@@ -40,7 +40,7 @@ click on the name for the abstract below
 
  | Time           |    |       12/5         |   | 12/6                  |    | 12 /7 |
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
- |  9:00  - 10:15 |    |    (Turner McLaurin)[#turner-mclaurin] |   | [David Schmidt](#david-schmidt)         | | 
+ |  9:00  - 10:15 |    |    [Turner McLaurin](#turner-mclaurin) |   | [David Schmidt](#david-schmidt)         | | 
  |                |    |                    |   |                       |
  |  10:45 - 12:00 |    |    [Zach Zobair](#zach-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
  |                |    |                    |   |                       |
