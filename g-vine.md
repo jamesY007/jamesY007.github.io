@@ -36,10 +36,11 @@ I'll assume the audience knows what the p-adic numbers are. The abstract may be 
 
 #### Weekend party
 
+click on the name for the abstract below
 
  | Time           |    |       12/5         |   | 12/6                  |    | 12 /7 |
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
- |  9:00  - 10:15 |    |    (Turner McLaurin)[#turn-mclaurin] |   | [David Schmidt](#david-schmidt)         | | 
+ |  9:00  - 10:15 |    |    (Turner McLaurin)[#turner-mclaurin] |   | [David Schmidt](#david-schmidt)         | | 
  |                |    |                    |   |                       |
  |  10:45 - 12:00 |    |    [Zach Zobair](#zach-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
  |                |    |                    |   |                       |
