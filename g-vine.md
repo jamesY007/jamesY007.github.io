@@ -42,7 +42,7 @@ click on the name for the abstract below
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
  |  9:00  - 10:15 |    |    [Turner McLaurin](#turner-mclaurin) |   | [David Schmidt](#david-schmidt)         | | 
  |                |    |                    |   |                       |
- |  10:45 - 12:00 |    |    [Zach Zobair](#zach-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
+ |  10:45 - 12:00 |    |    [Zachariah Zobair](#zachariah-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
  |                |    |                    |   |                       |
  |  1:30 -   3:30 |    |     [HaoYun Yao](#haoyun-yao)     |   |  [Ruijie Zhang](#ruijie-zhang)         |
  |                |    |                    |   |                       |
@@ -86,7 +86,7 @@ TBB
 TBC
 
 ----
-#### Zach Zobair
+#### Zachariah Zobair
 
 TBD
 
