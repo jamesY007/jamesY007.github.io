@@ -14,7 +14,7 @@ title: Grapevine conference, 2nd
 
 Registration is now closed.
 
-## Date : 6 - 9 December 2026
+## Date : 2 - 7 December 2026
 ## Location : Gross Hall, Duke University.
 ### Meet at Horace Fusco's desk
 
