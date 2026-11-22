@@ -22,7 +22,7 @@ Registration is now closed.
 
 #### 12/2, 10:00 - 12:00, Erin Delargy
 
-#### 12/3, 10:00 - 12:00, Jin Kunwoo Lee
+#### 12/3, 10:00 - 12:00, [Jin Kunwoo Lee](https://jin-lee-gh.github.io/math-profile/)
 
 #### 12/4, 10:00 - 12:00, Kaixin Wang
 
@@ -30,10 +30,10 @@ Registration is now closed.
  |  :----:        |--- |    :----:          |---| :----:                |
  |  9:00  - 10:15 |    |    Turner McLaurin |   | David Schmidt         | 
  |                |    |                    |   |                       |
- |  10:45 - 12:00 |    |    Zach Zobair     |   | Kevin Le              |
+ |  10:45 - 12:00 |    |    [Zach Zobair](https://zachzobair.com/)     |   | Kevin Le              |
  |                |    |                    |   |                       |
  |  1:30 -   3:30 |    |     HaoYun Yao     |   |  Ruijie Zhang         |
  |                |    |                    |   |                       |
- |  4:00 -   6:00 |    |     Horace Fusco   |   | Ezra Jordan Aylaian   | 
+ |  4:00 -   6:00 |    |     Horace Fusco   |   | [Ezra Jordan Aylaian](https://sites.math.duke.edu/~eaylaian/)   | 
  |                |    |                    |   |                       |
  |  6:00 - 12:00  |    |       Go home      |   |      Seminar dinner   |
