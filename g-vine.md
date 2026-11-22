@@ -60,13 +60,13 @@ click on the name for the abstract below
 
 #### HaoYun Yao
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the L-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the $L$-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
 
 ----
 
 #### Horace Fusco
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be a complement to Haoyun's talk. I'll discuss the local theory of L-functions for GL_n defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be a complement to Haoyun's talk. I'll discuss the local theory of $L$-functions for $\mathrm{GL}_n$ defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
 
 ----
 
