@@ -39,28 +39,29 @@ I'll assume the audience knows what the p-adic numbers are. The abstract may be 
 
  | Time           |    |       12/5         |   | 12/6                  |    | 12 /7 |
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
- |  9:00  - 10:15 |    |    Turner McLaurin |   | David Schmidt         | | 
+ |  9:00  - 10:15 |    |    (Turner McLaurin)[#turn-mclaurin] |   | [David Schmidt](#david-schmidt)         | | 
  |                |    |                    |   |                       |
- |  10:45 - 12:00 |    |    [Zach Zobair](https://zachzobair.com/)     |   | Kevin Le              | | Simon MacLean
+ |  10:45 - 12:00 |    |    [Zach Zobair](#zach-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
  |                |    |                    |   |                       |
- |  1:30 -   3:30 |    |     HaoYun Yao     |   |  Ruijie Zhang         |
+ |  1:30 -   3:30 |    |     [HaoYun Yao](#haoyun-yao)     |   |  [Ruijie Zhang](#ruijie-zhang)         |
  |                |    |                    |   |                       |
- |  4:00 -   6:00 |    |     Horace Fusco   |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
+ |  4:00 -   6:00 |    |     [Horace Fusco](#horace-fusco)   |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
  |                |    |                    |   |                       |
  |  6:00 - 12:00  |    |       Go home      |   |      Seminar dinner   |
 
 
 #### HaoYun Yao
 
-
+An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the L-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
 
 #### Horace Fusco
 
+This will be a complement to Haoyun's talk. I'll discuss the local theory of L-functions for GL_n defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
 
 
 #### Ruijie Zhang
 
-I will present million ways of proving quadratic reciprocity law.
+Millions of quadratic reciprocity.
 
 #### Kevin Le
 
@@ -68,7 +69,7 @@ TBA
 
 #### Turner McLaurin
 
-
+This talk is aimed to answer the following question: what is a gestalten? 
 
 #### David Schmidt
 
