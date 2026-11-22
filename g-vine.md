@@ -22,16 +22,16 @@ Registration is now closed.
 
 #### 12/2, 10:00 - 12:00, Erin Delargy - Towards the Weil conjectures
 
-The zeta function of a (nonsingular projective) variety over a finite field has to do with counting \mathbb{F}_q-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting \mathbb{F}_q-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
 
 
 #### 12/3, 10:00 - 12:00, [Jin Kunwoo Lee](https://jin-lee-gh.github.io/math-profile/)
 
+TBZ
+
 #### 12/4, 10:00 - 12:00, Kaixin Wang
 
-I will explain various notions of p-adic modular forms. I will start with Serre's approach via q-expansion, then algebraic modular forms and Katz's approach using the ordinary locus and Hasse invariant. Time permitting, I will discuss a third approach about overconvergent modular forms.
-
-I'll assume the audience knows what the p-adic numbers are. The abstract may be edited slightly, but it is more or less what it will be.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will explain various notions of p-adic modular forms. I will start with Serre's approach via q-expansion, then algebraic modular forms and Katz's approach using the ordinary locus and Hasse invariant. Time permitting, I will discuss a third approach about overconvergent modular forms. I'll assume the audience knows what the p-adic numbers are. The abstract may be edited slightly, but it is more or less what it will be.
 
 
 #### Weekend party
@@ -53,16 +53,16 @@ click on the name for the abstract below
 
 #### HaoYun Yao
 
-An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the L-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the L-functions of Godement-Jaquet. Special focus will be paid to the global whittaker function.
 
 #### Horace Fusco
 
-This will be a complement to Haoyun's talk. I'll discuss the local theory of L-functions for GL_n defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be a complement to Haoyun's talk. I'll discuss the local theory of L-functions for GL_n defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotics of local whittaker functions and their applications to local functional equations. 
 
 
 #### Ruijie Zhang
 
-Millions of quadratic reciprocity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Millions of quadratic reciprocity.
 
 #### Kevin Le
 
@@ -70,7 +70,7 @@ TBA
 
 #### Turner McLaurin
 
-This talk is aimed to answer the following question: what is a gestalten? 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This talk is aimed to answer the following question: what is a gestalten? 
 
 #### David Schmidt
 
