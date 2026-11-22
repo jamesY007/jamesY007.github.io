@@ -25,7 +25,7 @@ Registration is now closed.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting \mathbb{F}_q-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
 
 
-#### 12/3, 10:00 - 12:00, [Jin Kunwoo Lee](https://jin-lee-gh.github.io/math-profile/)
+#### 12/3, 10:00 - 12:00, Jin Kunwoo Lee
 
 TBZ
 
