@@ -24,7 +24,7 @@ Registration is now closed.
 
 #### 12/2, 10:00 - 12:00, Erin Delargy - Towards the Weil conjectures
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting \mathbb{F}_q-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting $\mathbb{F}_q$-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
 
 ----
 
@@ -72,7 +72,7 @@ click on the name for the abstract below
 
 #### Ruijie Zhang
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Millions of quadratic reciprocity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will discuss a billion way for proving quadratic reciprocity.
 
 ----
 
@@ -84,7 +84,7 @@ TBA
 
 #### Turner McLaurin
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This talk is aimed to answer the following question: what is a gestalten? 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This talk is aimed to answer the following question: what is a Gestalten? 
 
 ----
 
