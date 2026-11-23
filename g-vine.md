@@ -3,16 +3,16 @@ layout: indepsite
 title: Grapevine conference, 2nd
 ---
 
-# Grapevine @ Duke
+# Grapevine @ Duke - a program of Langlands
 
 
-## In celebrating 24th birthdays of David Schmidt and Erin Delargy
+<!-- ## In celebrating 24th birthdays of David Schmidt and Erin Delargy
 
 
 
 ---
 
-Registration is now closed.
+% Registration is now closed. -->
 
 ## Date : 2 - 7 December 2026
 ## Location : Gross Hall, Duke University.
