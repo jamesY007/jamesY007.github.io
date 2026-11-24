@@ -50,11 +50,11 @@ click on the name for the abstract below
  |                |    |                    |   |                       |
  |  10:45 - 12:00 |    |    [Zachariah Zobair](#zachariah-zobair)     |   | [Kevin Le](#kevin-le)              | | [Simon MacLean](#simon-maclean)
  |                |    |                    |   |                       |
- |  1:30 -   3:30 |    |     [HaoYun Yao](#haoyun-yao)     |   |  [Ruijie Zhang](#ruijie-zhang)         |
+ |  1:30 -   3:30 |    |      X@Hongkai    |   |  [Ruijie Zhang](#ruijie-zhang)         |
  |                |    |                    |   |                       |
- |  4:00 -   6:00 |    |     [Horace Fusco](#horace-fusco)   |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
+ |  4:00 -   6:00 |    |      [HaoYun Yao](#haoyun-yao)  |   | [Ezra Jordan Aylaian](#ezra-jordan-aylaian)   | 
  |                |    |                    |   |                       |
- |  6:00 - 12:00  |    |       Go home      |   |      Conference dinner   |
+ |  6:15 - 8:15  |    |       [Horace Fusco](#horace-fusco)      |   |      Conference dinner   |
 
 ----
 
