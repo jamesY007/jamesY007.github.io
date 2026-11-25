@@ -16,7 +16,9 @@ title: Grapevine conference, 2nd
 
 ## Date : 2 - 7 December 2026
 ## Location : Gross Hall, Duke University.
-### Meet at Horace Fusco's desk
+### Potentially Gross 304 B
+#### Back-up - Meet at Horace Fusco's desk
+
 
 ## Talks / Schedule
 
