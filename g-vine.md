@@ -20,10 +20,7 @@ title: Grapevine conference, 2nd
 #### Back-up - Meet at Horace Fusco's desk
 
 
-## Talks / Schedule
-
-
-#### Weekday relax
+##  Weekday relaxation
 
  | Time           |    |       12/2         |   | 12/3                  |    | 12 /4 |
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
@@ -36,7 +33,7 @@ title: Grapevine conference, 2nd
  |  3:00 - 4:00 |    |      Kaixin Wang's denfense  |   |    | 
 
 
-
+---
 
 #### Erin Delargy - Towards the Weil conjectures
 
@@ -56,7 +53,7 @@ TBZ
 
 ----
 
-#### Weekend party
+## Weekend party
 
 click on the name for the abstract below
 
