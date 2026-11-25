@@ -27,9 +27,9 @@ title: Grapevine conference, 2nd
  |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
  |  9:30  - 11:00 |    |    [Erin Delargy](#erin-delargy) |   | [Jin Kunwoo Lee](#jin-kunwoo-lee)         | | [Kaixin Wang](#kaixin-wang)
  |                |    |                    |   |                       |
- |  12:00 - 1:00 |    |    Frontiers     |   |                | | 
+ |  12:00 - 1:00 |    |    [Frontiers](https://math.duke.edu/events/frontiers-mathematics-seminar-i)     |   |                | | 
  |                |    |                    |   |                       |
- |  1:30 -   2:30 |    |        |   |  Frontiers       |
+ |  1:30 -   2:30 |    |        |   |  [Frontiers](https://math.duke.edu/events/frontiers-mathematics-seminar-i)       |
  |                |    |                    |   |                       |
  |  3:00 - 4:00 |    |      Kaixin Wang's denfense  |   |    | 
  |                |    |                    |   |                       |
