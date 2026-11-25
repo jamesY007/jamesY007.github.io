@@ -21,20 +21,36 @@ title: Grapevine conference, 2nd
 ## Talks / Schedule
 
 
+#### Weekday relax
 
-#### 12/2, 10:00 - 12:00, Erin Delargy - Towards the Weil conjectures
+ | Time           |    |       12/2         |   | 12/3                  |    | 12 /4 |
+ |  :----:        |--- |    :----:          |---| :----:                | --- | :----: |
+ |  9:30  - 11:00 |    |    [Erin Delargy](#erin-delargy) |   | [Jin Kunwoo Lee](#jin-kunwoo-lee)         | | [Kaixin Wang](#kaixin-wang)
+ |                |    |                    |   |                       |
+ |  12:00 - 1:00 |    |    Frontiers     |   |                | | 
+ |                |    |                    |   |                       |
+ |  1:30 -   2:30 |    |        |   |  Frontiers       |
+ |                |    |                    |   |                       |
+ |  3:00 - 4:00 |    |      Kaixin Wang's denfense  |   |    | 
+ |                |    |                    |   |                       |
+ |  6:15 - 8:15  |    |         |   |       |
+
+
+
+
+#### Erin Delargy - Towards the Weil conjectures
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting $\mathbb{F}_q$-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
 
 ----
 
-#### 12/3, 10:00 - 12:00, Jin Kunwoo Lee
+#### Jin Kunwoo Lee
 
 TBZ
 
 ----
 
-#### 12/4, 10:00 - 12:00, Kaixin Wang
+#### Kaixin Wang
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will explain various notions of $p$-adic modular forms. I will start with Serre's approach via $q$-expansion, then algebraic modular forms and Katz's approach using the ordinary locus and Hasse invariant. Time permitting, I will discuss a third approach about overconvergent modular forms. I'll assume the audience knows what the $p$-adic numbers are. The abstract may be edited slightly, but it is more or less what it will be.
 
@@ -76,9 +92,12 @@ click on the name for the abstract below
 
 ----
 
-#### Kevin Le
+#### Kevin Le - Gamma factors for representations of finite general linear groups
 
-TBA
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will develop the Langlands-Shahidi method for representations of general linear groups over a finite field. This includes defining the associated gamma factors and proving multiplicity. Time permitting, we'll discuss applications and the Bessel function.
+ 
+I am following [this paper](https://msp.org/ent/2023/2-1/ent-v2-n1-p03-s.pdf) that served as a basis for an REU I participated in.
 
 ----
 
