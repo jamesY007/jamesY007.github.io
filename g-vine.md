@@ -39,7 +39,8 @@ click on the name for the abstract below
 
 ---
 
-#### Erin Delargy - Towards the Weil conjectures
+#### Erin Delargy 
+##### Towards the Weil conjectures
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The zeta function of a (nonsingular projective) variety over a finite field has to do with counting $\mathbb{F}_q$-points. The Weil conjectures assert that this zeta function can be written as a quotient of explicit polynomials and satisfies a functional equation. It turns out that the conjectures/theorems can be realized as consequences of “topological” properties of the variety: the functional equation is a result of Poincaré duality for étale cohomology, and the polynomials come from a Lefschetz trace formula. I’ll introduce what this cohomology is, and we’ll try to understand as many of the Weil conjecture proofs as time permits. 
 
@@ -75,25 +76,29 @@ click on the name for the abstract below
 
 ----
 
-#### HaoYun Yao - Global warming
+#### HaoYun Yao 
+##### Global warming
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An introduction to the global theory of automorphic forms starting from Tate's thesis and building to the definition of the $L$-functions of Godement-Jaquet. Special focus will be paid to the global Whittaker function.
 
 ----
 
-#### Horace Fusco - Local people
+#### Horace Fusco 
+##### Local people
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be a complement to HaoYun's talk. I'll discuss the local theory of $L$-functions for $\mathrm{GL}_n$ defining the Godement-Jaquet and Rankin Selberg integrals. I'll describe the representation theory and asymptotic of local Whittaker functions and their applications to local functional equations. 
 
 ----
 
-#### Ruijie Zhang - Chevalley-Warning
+#### Ruijie Zhang 
+##### Chevalley-Warning
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will discuss a billion way for proving quadratic reciprocity.
 
 ----
 
-#### Kevin Le - Gamma factors for representations of finite general linear groups
+#### Kevin Le 
+##### Gamma factors for representations of finite general linear groups
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will develop the Langlands-Shahidi method for representations of general linear groups over a finite field. This includes defining the associated gamma factors and proving multiplicity. Time permitting, we'll discuss applications and the Bessel function.
