@@ -32,8 +32,6 @@ title: Grapevine conference, 2nd
  |  1:30 -   2:30 |    |        |   |  [Frontiers](https://math.duke.edu/events/frontiers-mathematics-seminar-i)       |
  |                |    |                    |   |                       |
  |  3:00 - 4:00 |    |      Kaixin Wang's denfense  |   |    | 
- |                |    |                    |   |                       |
- |  6:15 - 8:15  |    |         |   |       |
 
 
 
